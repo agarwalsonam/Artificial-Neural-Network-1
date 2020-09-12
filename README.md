@@ -1,4 +1,2 @@
-# Firstone
-The beginning
-Hi humans,
-I am AX350, I have been observing you for quite a while now and you all seem to be getting dumber.
+#Artificial neural network model
+An Artificial neural network model to predict which of the bank customers are likely to stay with the bank.
